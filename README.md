@@ -32,14 +32,14 @@ Filmverse Sync is a desktop application that manages your Filmverse plugin licen
 
 ### 🎨 **User Experience**
 - **Professional Interface**: Clean, modern UI designed for professional workflows
-- **Cross-Platform Support**: Works on Windows, macOS, and Linux
+- **Cross-Platform Support**: Works on Windows and macOS
 - **Dark Mode Support**: Automatic dark mode detection on macOS
 - **Responsive Design**: Adapts to different screen sizes and resolutions
 
 ## System Requirements
 
 ### Minimum Requirements
-- **Operating System**: Windows 10+, macOS 10.14+, or Linux
+- **Operating System**: Windows 10+, macOS 10.14+
 - **DaVinci Resolve**: DaVinci Resolve Studio (required for plugin functionality)
 - **Internet Connection**: Required for license verification and plugin download
 - **Storage**: 100MB available space for application and plugins
